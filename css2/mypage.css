@@ -17,6 +17,10 @@ h1 {
     bottom : -90px;
     right: -767px;
   }
+.first-image img {
+    border-radius: 30%;
+     
+  }
 .about {
     background-color:#ffe4e1;
   }
