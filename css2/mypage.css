@@ -1,6 +1,6 @@
 body {
     background-color: #bebebe;
-}
+ }
 .top-part {
     border: 1px solid #696969;
     background-color :#696969;
@@ -10,4 +10,8 @@ body {
   }
 h1 {
     text-align:center;
-  }    
+  }
+#only {
+    position:relative;
+    bottom : -60px;
+  }
