@@ -14,7 +14,8 @@ h1 {
   }
 #only {
     position:relative;
-    bottom : -60px;
+    bottom : -90px;
+    right: -767px;
   }
 .about {
     background-color:#ffe4e1;
