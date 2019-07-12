@@ -43,6 +43,9 @@ h2 {
 p,ul,ol {
     font-family: 'Times New Roman', Times, serif;
   }
+.blackimage {
+    
+}
 .project {
     border: 1px dotted #ffe4e1;
     width: 40%;
