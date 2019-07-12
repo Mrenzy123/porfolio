@@ -44,7 +44,8 @@ p,ul,ol {
     font-family: 'Times New Roman', Times, serif;
   }
 .blackimage {
-    
+    position: relative;
+    right:  -497px; 
 }
 .project {
     border: 1px dotted #ffe4e1;
