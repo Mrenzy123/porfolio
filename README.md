@@ -3,7 +3,7 @@
 ## Project Description
 A personal portfolio using HTML and CSS to present some things about me , like my educational background, passion for coding ,my skills, personal interests and hobbies. A good way to help viewers easily get a glimpse of who i am .A start for building connections due to my interests and skills . Please feel free to view my page.
 ## Project Cloning Instructions
-* ![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
+* ![Test Image 4](image2/mypage.png)
 * to list setup instructions
 * in a simple
 * easy-to-understand
