@@ -18,3 +18,7 @@ h1 {
 .about {
     background-color:#ffe4e1;
   }
+h2 {
+    font-size:40px;
+    font-weight: 400;
+  }
