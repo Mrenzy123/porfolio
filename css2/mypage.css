@@ -26,21 +26,35 @@ h1 {
      
   }
 .all {
-    color:white;
+    color:#ffe4e1;
 }
 .about {
-    border: 1px solid black;
-  }
+    border: 1px dotted #ffe4e1;
+    width: 35%;
+  float: left;
+  position:relative;
+  right: -200px  
+}
 h2 {
     font-size:40px;
     font-weight: 400;
+    text-decoration-line: underline;
   }
 p,ul,ol {
     font-family: 'Times New Roman', Times, serif;
   }
 .project {
-    border: 1px solid black;
+    border: 1px dotted #ffe4e1;
+    width: 40%;
+    float: right;
+    position:relative;
+    right: 197px ;
+    bottom: -580px;
   }
 h5 {
     font-size: 15px;
   }
+em{
+    font-weight: 700;
+    text-decoration: underline;
+}
