@@ -3,7 +3,8 @@ body {
  }
 .top-part {
     border: 1px solid #696969;
-    background-color :#a79696;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT49cKMP88CH92r-qE4PaFYhw9W9v9qkBD1j-PyvEatKGqeHn9ekg');
+    background-size: cover;
   }
 .head {
     font-size:20px;
