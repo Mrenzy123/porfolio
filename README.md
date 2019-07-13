@@ -6,7 +6,7 @@ A personal portfolio using HTML and CSS to present some things about me , like m
 ## Project Cloning Instructions
 ![Test Image 4](image2/mypage.png)
 * In order to clone my work, check the green button on your right and click on it.
-* ![Test Image 4](image2/mypage1.png)
+ ![Test Image 4](image2/mypage1.png)
 * After clicking on green button ,there is a drop down which shows a web url.
 * Now copy the link by selecting and right-clicking or just click on the icon besides the link.
 * Now you can go to your terminal and copy the link in a non-git initialised folder.
